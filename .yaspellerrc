@@ -1,5 +1,5 @@
 {
-  "lang": "en",
+  "lang": "eng",
   "format": "markdown",
   "fileExtensions": [".md"],
   "excludeFiles": [".git", "node_modules", "build", "api/*.es6.html"],
